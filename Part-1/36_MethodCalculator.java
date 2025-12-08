@@ -1,3 +1,5 @@
+// Write a program to create calculator in java using methods (Functions).
+
 import java.util.Scanner;
 public class MethodCalculator {
     public static void main (String[] args) {
