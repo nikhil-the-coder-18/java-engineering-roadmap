@@ -8,7 +8,7 @@ class Student {
     int marks;
 }
 
-public class Class_01_Creating {
+public class OOP_01_CreatingClass {
     public static void main(String[] args) {
         Student s1 = new Student();
 

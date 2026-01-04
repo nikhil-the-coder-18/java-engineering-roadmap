@@ -8,7 +8,7 @@ class Employee {
     }
 }
 
-public class Class_03_Employee {
+public class OOP_03_ClassEmployee {
     public static void main(String[] args) {
         Employee emp = new Employee();
 

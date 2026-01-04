@@ -9,7 +9,7 @@ class Circle {
     }
 }
 
-public class Class_09_Circle {
+public class OOP_09_ClassCircle {
     public static void main(String[] args) {
         Circle c = new Circle();
 

@@ -30,7 +30,7 @@ class Employee2 {
     }
 
 }
-public class Class_04_Employee_Detailed {
+public class OOP_04_EmployeeDetailed {
     public static void main(String[] args) {
         Employee2 emp = new Employee2();
 

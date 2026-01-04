@@ -10,7 +10,7 @@ class Rectangle {
     }
 }
 
-public class Class_07_Rectangle {
+public class OOP_07_ClassRectangle {
     public static void main(String[] args) {
         Rectangle R1 = new Rectangle();
 

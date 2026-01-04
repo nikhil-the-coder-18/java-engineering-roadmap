@@ -15,7 +15,7 @@ class Student1 {
     }
 }
 
-public class Constructor_12_Studentclass {
+public class OOP_12_ConstructorStudentclass {
     public static void main(String[] args) {
 
         Student1 s1 = new Student1("Nikhil", 17);

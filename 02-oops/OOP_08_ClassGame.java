@@ -14,7 +14,7 @@ class TommyVecetli {
 
 }
 
-public class Class_08_RockstarGames {
+public class OOP_08_ClassGame {
     public static void main(String[] args) {
 
         TommyVecetli Player1 = new TommyVecetli();

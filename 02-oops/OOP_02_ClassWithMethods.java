@@ -11,7 +11,7 @@ class Pen {
     }
 }
 
-public class Class_02_WithMethods {
+public class OOP_02_ClassWithMethods {
     public static void main(String[] args) {
         Pen p1 = new Pen();
 

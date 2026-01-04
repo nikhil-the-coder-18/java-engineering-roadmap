@@ -16,7 +16,7 @@ class Cylinder2 {
     }
 }
 
-public class Constructor_14_Cylinder2 {
+public class OOP_14_ConstructorCylinder2 {
     public static void main(String[] args) {
         Cylinder2 c = new Cylinder2 (2, 43);
     }

@@ -16,7 +16,7 @@ class Box {
     }
 }
 
-public class Constructor_19_thisKeyword {
+public class OOP_19_ConstructorThisKeyword {
     public static void main(String[] args) {
         Box b1 = new Box(10, 5, 2);
 

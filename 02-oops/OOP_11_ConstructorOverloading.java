@@ -15,7 +15,7 @@ class employee2 {
     }
 }
 
-public class Constructor_11_Overloading {
+public class OOP_11_ConstructorOverloading {
     public static void main(String[] args) {
 
         employee2 emp1 = new employee2();     // Default Constructor

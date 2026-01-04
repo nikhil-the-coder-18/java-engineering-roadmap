@@ -23,7 +23,7 @@ class NewEmployee {
     }
 }
 
-public class Class_10_GettersSetters {
+public class OOP_10_GettersSetters {
     public static void main(String[] args) {
         NewEmployee emp = new NewEmployee();
 

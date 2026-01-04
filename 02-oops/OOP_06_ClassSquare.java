@@ -14,7 +14,7 @@ class Square {
     }
 }
 
-public class Class_06_Square {
+public class OOP_06_ClassSquare {
     public static void main (String[] args) {
         Square s1 = new Square();
 

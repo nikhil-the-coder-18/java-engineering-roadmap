@@ -8,7 +8,7 @@ class CellPhone {
     }
 }
 
-public class Class_05_Cellphone {
+public class OOP_05_ClassCellphone {
     public static void main (String[] args) {
         CellPhone Samsung = new CellPhone();
         CellPhone iPhone = new CellPhone();

@@ -9,7 +9,7 @@ class Car {
     }
 }
 
-public class Constructor_17_Color {
+public class OOP_17_ConstructorColor {
     public static void main(String[] args) {
         Car BMW = new Car("Blue");
 

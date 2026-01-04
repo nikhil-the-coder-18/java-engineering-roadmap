@@ -16,7 +16,7 @@ class Calculator {
     }
 }
 
-public class Constructor_18_Overloading2 {
+public class OOP_18_ConstructorOverloading2 {
     public static void main(String[] args) {
         Calculator c1 = new Calculator();
 
