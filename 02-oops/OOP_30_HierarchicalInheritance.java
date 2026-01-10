@@ -1,4 +1,4 @@
-// WAP to show use of Hierarchical inheritance - 3
+// WAP to show use of Hierarchical inheritance - 1
 // Author : Nikhil
 
 class Shape {
